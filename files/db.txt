@@ -1,0 +1,14 @@
+user            projects                     tasks
+======          ========                     ======
+id, name        id, title, creator_id        id, title, creator_id, project_id
+
+- Register , Login
+- User can add, update, delete project.
+- User can assign tasks related to specific [Project]
+
+- more than user can be member of one projects
+- more than project can have more than members
+
+=========================================================================
+- forget password , reset password , email verification , change password
+
